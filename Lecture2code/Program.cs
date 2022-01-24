@@ -10,6 +10,11 @@ namespace Lecture2code
 
             Console.WriteLine("Welcome to MIS 3033!");
 
+            Console.WriteLine("i added a new line");
+
+            Console.WriteLine("guess who added another new line");
+
+
             Console.ReadKey();
         }
     }
